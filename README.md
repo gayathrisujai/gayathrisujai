@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning Full Stack Development
+<p>Completed Full Stack Development Course</p>
+<p>I'm currently learning Digital Forensics & Information Security</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gayathrisujai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
