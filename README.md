@@ -1,325 +1,290 @@
 <div align="center">
 
-# Hi, I'm Gayathri S 👋
+<!-- ============================ HERO SECTION ============================ -->
 
-### Digital Forensics & Information Security Candidate  
-### Full Stack Developer | Cybersecurity Enthusiast
+# GAYATHRI S
 
+### Digital Forensics & Information Security Candidate | Full Stack Developer | Cybersecurity Enthusiast
 
+<br/>
 
-<p>
-  <a href="https://github.com/gayathrisujai">
-    <img src="https://img.shields.io/badge/GitHub-gayathrisujai-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gayathri-s-6589a02ba">
-  <img src="https://img.shields.io/badge/LinkedIn-Gayathri%20S-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-  <a href="mailto:gayathrisheeja2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20INVESTIGATOR-FFC107?style=for-the-badge&labelColor=0D1117" alt="status"/>
+<img src="https://img.shields.io/badge/FOCUS-DIGITAL%20FORENSICS-00E5FF?style=for-the-badge&labelColor=0D1117" alt="focus"/>
+<img src="https://img.shields.io/badge/BUILD-FULL%20STACK-FFC107?style=for-the-badge&labelColor=0D1117" alt="build"/>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/GitHub-gayathrisujai-0D1117?style=for-the-badge&logo=github&logoColor=FFC107)](https://github.com/gayathrisujai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayathri%20S-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/gayathri-s-6589a02ba)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=FFC107)](mailto:gayathrisheeja2003@gmail.com)
+
+<br/>
+
+<!-- ============================ TYPING SVG ============================ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=FFC107&center=true&vCenter=true&width=650&lines=Digital+Forensics+%26+Information+Security;CDR+Analysis+%7C+Network+Forensics;Malware+Triage;Full+Stack+Developer+%7C+MERN+%2B+FastAPI;Turning+Digital+Evidence+Into+Insight)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/gayathrisujai/gayathrisujai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
 </div>
 
----
+<br/>
 
-## 👩‍💻 About Me
+<!-- ============================ ABOUT ME ============================ -->
 
-I am an **MSc Digital Forensics and Information Security candidate** at Jain University, Bengaluru, with a background in **Electronics and Communication Engineering**.
+## 🗂️ About Me
 
-My interests lie at the intersection of:
-
-- Digital Forensics
-- Information Security
-- Cybersecurity
-- Python Development
-- Full Stack Web Development
-- Network Security
-- Data Analysis
-- Artificial Intelligence and Machine Learning
-- Embedded Systems and Electronics
-
-I enjoy building practical projects that combine technology, investigation, automation, and problem-solving.
+I'm an **MSc Digital Forensics and Information Security** candidate at Jain University, Bengaluru, with a **B.Tech in Electronics and Communication Engineering**. My work sits at the intersection of **digital investigation, network security, and full-stack engineering** — I build the tools I use to analyze evidence, and I analyze the systems I build.
 
 <pre>
+<code>
 class Gayathri:
-    name = "Gayathri S"
-    role = "Digital Forensics & Information Security Candidate"
-    location = "Bengaluru, India"
+    def __init__(self):
+        self.role        = "MSc Digital Forensics & Information Security Candidate"
+        self.background  = "B.Tech Electronics & Communication Engineering"
+        self.focus       = ["Digital Forensics", "Network Security", "Full Stack Development"]
+        self.tools       = ["EnCase", "FTK", "Autopsy", "Magnet AXIOM", "Wireshark", "Nmap"]
+        self.languages   = ["Python", "JavaScript", "HTML", "CSS"]
 
-    interests = [
-        "Digital Forensics",
-        "Cybersecurity",
-        "Python Development",
-        "Full Stack Development",
-        "Network Security",
-        "Artificial Intelligence",
-        "Embedded Systems"
-    ]
+    def current_mission(self):
+        return "Building investigative tools that turn raw data into evidence."
 
-    currently_learning = [
-        "Digital Investigation Techniques",
-        "Information Security",
-        "Network Security",
-        "Forensic Analysis",
-        "Secure Application Development"
-    ]
+if __name__ == "__main__":
+    gayathri = Gayathri()
+    print(gayathri.current_mission())
+</code>
 </pre>
 
----
+<br/>
 
-## 🔎 Currently Exploring
+<!-- ============================ CURRENTLY EXPLORING ============================ -->
 
-- Digital Forensics and Cyber Investigation
-- Information Security and Network Security
-- Python-based Forensic Tools
-- Cybersecurity Monitoring and Analysis
-- CDR Analysis and Communication Intelligence
-- Full Stack Web Application Development
-- Machine Learning and Natural Language Processing
-- Secure and Privacy-aware Application Design
+## 🔍 Currently Exploring
 
----
+- 📡 Call Detail Record (CDR) analysis and telecom forensic intelligence
+- 🕵️ Advanced digital forensic methodologies for CSV/data-driven investigations
+- 🌐 Network security fundamentals — packet analysis, IDS/IPS, and vulnerability assessment
+- 🧠 NLP-based sentiment analysis for regional languages
+- ⚙️ Full stack architecture with the MERN stack and FastAPI
+
+<br/>
+
+<!-- ============================ TECHNICAL SKILLS ============================ -->
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**Programming Languages**
 
-### 🌐 Full Stack Development
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFC107)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFC107)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00E5FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00E5FF)
 
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
-</p>
+**Web Development**
 
-### 🗄️ Databases and Data Tools
+![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=FFC107)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFC107)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFC107)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=FFC107)
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+**Operating Systems**
 
-### 🛡️ Digital Forensics
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00E5FF)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
 
-<p>
-  <img src="https://img.shields.io/badge/EnCase-202020?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FTK-202020?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Autopsy-202020?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Magnet_AXIOM-202020?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CDR_Analysis-8A2BE2?style=for-the-badge"/>
-</p>
+</div>
 
-### 🌐 Cybersecurity and Networking
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IDS%2FIPS-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vulnerability_Assessment-0D1117?style=for-the-badge"/>
-</p>
+<!-- ============================ FORENSICS & CYBERSECURITY ============================ -->
 
-### 🐧 Operating Systems
+## 🕵️ Digital Forensics & Cybersecurity Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🔌 Embedded Systems and Electronics
+![EnCase](https://img.shields.io/badge/EnCase-0D1117?style=for-the-badge&logoColor=FFC107)
+![FTK](https://img.shields.io/badge/FTK-0D1117?style=for-the-badge&logoColor=FFC107)
+![Autopsy](https://img.shields.io/badge/Autopsy-0D1117?style=for-the-badge&logoColor=00E5FF)
+![Magnet AXIOM](https://img.shields.io/badge/Magnet%20AXIOM-0D1117?style=for-the-badge&logoColor=00E5FF)
+![CDR Analysis](https://img.shields.io/badge/CDR%20Analysis-0D1117?style=for-the-badge&logoColor=FFC107)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=FFC107)
+![Snort](https://img.shields.io/badge/Snort-0D1117?style=for-the-badge&logoColor=00E5FF)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-0D1117?style=for-the-badge&logoColor=FFC107)
+![Firewalls](https://img.shields.io/badge/Firewalls-0D1117?style=for-the-badge&logoColor=00E5FF)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0D1117?style=for-the-badge&logoColor=FFC107)
+![Network Security](https://img.shields.io/badge/Network%20Security-0D1117?style=for-the-badge&logoColor=00E5FF)
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EasyEDA-1765F5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wi--Fi-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSM-0D1117?style=for-the-badge"/>
-</p>
+</div>
 
----
+<br/>
+
+<!-- ============================ FULL STACK SKILLS ============================ -->
+
+## 💻 Full Stack Development Skills
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=FFC107)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFC107)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00E5FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFC107)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logoColor=00E5FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=FFC107)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00E5FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=FFC107)
+
+</div>
+
+Additional electronics & embedded background: **Arduino, Microcontrollers, Circuit Design, KiCad, EasyEDA, Wi-Fi, Bluetooth, GSM, Signal Processing, Oscilloscope, Function Generator**
+
+<br/>
+
+<!-- ============================ EXPERIENCE ============================ -->
 
 ## 💼 Experience
 
-### Full Stack Developer Intern
+### 🔹 Full Stack Developer Intern
+**TrackGenesis Internship, ICT Academy of Kerala**
+*November 2024 – December 2024*
 
-**TrackGenesis Internship, ICT Academy of Kerala**  
-**November 2024 to December 2024**
+- Developed an Asset Management System using the **MERN stack**
+- Created responsive dashboards using **React** and **Tailwind CSS**
+- Developed REST APIs using **Node.js** and **Express.js**
+- Implemented **JWT authentication** and role-based access control
+- Used **MongoDB** and **Mongoose**
+- Worked with deployment using **Render, MongoDB Atlas, and Netlify**
 
-- Developed an Asset Management System using the MERN stack.
-- Built responsive dashboards using React and Tailwind CSS.
-- Developed REST APIs using Node.js and Express.js.
-- Implemented JWT authentication and role-based access control.
-- Used MongoDB and Mongoose for database operations.
-- Worked with deployment using Render, MongoDB Atlas, and Netlify.
+### 🔹 In-Plant Training
+**ITI Limited, Palakkad**
+*November 2022*
 
-### In-Plant Training
+- Led a 10-member training team
+- Gained exposure to industrial operations and troubleshooting
+- Learned about manufacturing, PCB testing, quality assurance, computer centre operations, and industrial processes
+- Developed teamwork, coordination, and problem-solving skills
 
-**ITI Limited, Palakkad**  
-**November 2022**
+<br/>
 
-- Led a 10-member training team.
-- Gained exposure to industrial operations and troubleshooting.
-- Learned about manufacturing and PCB testing.
-- Gained exposure to quality assurance and computer centre operations.
-- Developed teamwork, coordination, and problem-solving skills.
-
----
+<!-- ============================ FEATURED PROJECTS ============================ -->
 
 ## 🚀 Featured Projects
 
-### 🔍 Varuna CDR Intelligence Platform
+### 🔎 [Varuna — CDR Intelligence Platform](https://github.com/gayathrisujai/cdrdataanalysis)
+A digital forensic **Call Detail Record (CDR) analysis platform** built for investigative use.
+- Supports CSV upload and processing, converting raw communication records into structured investigative data
+- Provides top-contact analysis and hourly communication pattern visualization
+- Includes behavioral pattern analysis and relationship-network visualization
+- Provides approximate telecom tower geolocation intelligence
+- Includes case management and target-number investigation workflows
+- Designed for local processing to preserve data confidentiality
 
-A locally processed digital forensic CDR analysis platform designed to organize and analyze communication records.
-
-**Key Features:**
-
-- CSV upload and CDR processing.
-- Structured communication records.
-- Top-contact analysis.
-- Hourly communication pattern analysis.
-- Behavioral pattern analysis.
-- Relationship-network visualization.
-- Approximate telecom tower geolocation intelligence.
-- Case management and target-number investigation.
-- Local processing for improved data confidentiality.
-
-**Technologies:**
-
-`Python` `FastAPI` `SQLAlchemy` `SQLite` `Pandas` `React` `Tailwind CSS` `Chart.js` `Leaflet` `Vis Network`
-
-[View Project Repository](https://github.com/gayathrisujai/cdrdataanalysis)
+**Tech Stack:** Python · FastAPI · SQLAlchemy · SQLite · Pandas · React · Tailwind CSS · Chart.js · Leaflet · Vis Network
 
 ---
 
-### 🗣️ Malayalam Sentiment Analysis System
+### 🗣️ [Malayalam Sentiment Analysis System](https://github.com/gayathrisujai/Nlpmodel)
+An NLP project analyzing sentiment in Malayalam text and speech.
+- Includes text preprocessing and TF-IDF-based text representation
+- Uses machine learning classification for positive, negative, and neutral sentiment categories
+- Includes speech-to-text and translation-related processing
+- Includes model persistence and text data handling
 
-A Natural Language Processing project for analyzing Malayalam text and speech-related input.
-
-**Key Features:**
-
-- Malayalam text preprocessing.
-- TF-IDF-based text representation.
-- Machine learning classification.
-- Positive, negative, and neutral sentiment categories.
-- Speech-to-text and translation-related processing.
-- Model persistence and text data handling.
-
-**Technologies:**
-
-`Python` `NLP` `TF-IDF` `Machine Learning` `Text Processing`
-
-[View Project Repository](https://github.com/gayathrisujai/Nlpmodel)
+**Tech Stack:** Python · NLP Tools
 
 ---
 
-### 🧬 Leukemia Detection Using CNN
+### 🩸 Leukemia Detection Using CNN
+A deep learning project for image-based leukemia classification.
+- Uses Convolutional Neural Networks for image classification
+- Focuses on pattern recognition in medical imaging
 
-A deep learning project focused on image-based leukemia classification using Convolutional Neural Networks.
-
-**Technologies:**
-
-`Python` `Deep Learning` `CNN` `Image Classification`
-
----
-
-### 🚗 Voice Controlled Car
-
-An Arduino-based embedded systems project that uses voice commands to control a robotic car.
-
-**Concepts Used:**
-
-- Arduino and microcontrollers.
-- Voice command processing.
-- Motor control.
-- Embedded systems.
-- Communication concepts.
-
-**Technologies:**
-
-`Arduino` `Embedded Systems` `Electronics` `Motor Control`
+**Tech Stack:** Python · CNN / Deep Learning
 
 ---
+
+### 🎙️ Voice Controlled Car
+An Arduino-based embedded systems project.
+- Uses voice commands to control a robotic car
+- Demonstrates microcontrollers, motor control, and communication concepts
+
+**Tech Stack:** Arduino · Embedded Systems
+
+<br/>
+
+<!-- ============================ GITHUB STATISTICS ============================ -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gayathrisujai&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=F5B942&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gayathrisujai&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFC107&icon_color=00E5FF&text_color=C9D1D9&border_color=FFC107&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrisujai&layout=compact&theme=dark&bg_color=0D1117&title_color=FFC107&text_color=C9D1D9&border_color=FFC107&hide_border=false"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=gayathrisujai&theme=dark&hide_border=false&background=0D1117&ring=F5B942&fire=F5B942&currStreakLabel=F5B942" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrisujai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=F5B942&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=gayathrisujai&theme=dark&background=0D1117&ring=FFC107&fire=FFC107&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=6E7681&border=FFC107&hide_border=false"/>
 
 </div>
 
----
+<br/>
+
+<!-- ============================ CONTRIBUTION SNAKE ============================ -->
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gayathrisujai/gayathrisujai/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+
+</div>
+
+> The snake animation above is generated automatically via GitHub Actions. See the **snake.yml** workflow setup instructions provided separately below.
+
+<br/>
+
+<!-- ============================ EDUCATION ============================ -->
 
 ## 🎓 Education
 
-### MSc Digital Forensics and Information Security
+**MSc Digital Forensics and Information Security**
+*Jain University, Bengaluru*
+Expected Completion: June 2027 · Status: Pursuing
 
-**Jain University, Bengaluru**  
-**Expected Completion: June 2027**  
-Status: Pursuing
+**B.Tech Electronics and Communication Engineering**
+*College of Engineering Perumon, Kerala*
+Completed: June 2024
 
-### B.Tech Electronics and Communication Engineering
+<br/>
 
-**College of Engineering Perumon, Kerala**  
-**Completed: June 2024**
-
----
+<!-- ============================ CERTIFICATIONS ============================ -->
 
 ## 📜 Certifications
 
-- Fundamentals of Information Security, GUVI HCL
-- Full Stack Web Development MERN Stack, Unstop
+- 🛡️ Fundamentals of Information Security — GUVI HCL
+- 🌐 Full Stack Web Development (MERN Stack) — Unstop
 
----
+<br/>
 
-## 📫 Connect With Me
+<!-- ============================ CONTACT ============================ -->
 
-<div align="center">
-
-<a href="mailto:gayathrisheeja2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gayathrisheeja2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gayathri-s-6589a02ba">
-  <img src="https://img.shields.io/badge/LinkedIn-Gayathri%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/gayathrisujai">
-  <img src="https://img.shields.io/badge/GitHub-gayathrisujai-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
+## 📡 Contact
 
 <div align="center">
 
-### Building skills. Investigating technology. Creating useful solutions. 🔐
+[![GitHub](https://img.shields.io/badge/GitHub-gayathrisujai-0D1117?style=for-the-badge&logo=github&logoColor=FFC107)](https://github.com/gayathrisujai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayathri%20S-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/gayathri-s-6589a02ba)
+[![Gmail](https://img.shields.io/badge/Email-gayathrisheeja2003%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFC107)](mailto:gayathrisheeja2003@gmail.com)
+
+<br/>
+
+*"Every byte tells a story — I make sure it's heard in court."*
+
+<img src="https://raw.githubusercontent.com/gayathrisujai/gayathrisujai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake footer"/>
 
 </div>
