@@ -5,7 +5,7 @@
 ### Digital Forensics & Information Security Candidate  
 ### Full Stack Developer | Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5B942&center=true&vCenter=true&width=750&lines=Digital+Forensics+%26+Information+Security;Python+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+and+Useful+Technology" alt="Typing SVG" />
+
 
 <p>
   <a href="https://github.com/gayathrisujai">
@@ -41,7 +41,7 @@ My interests lie at the intersection of:
 
 I enjoy building practical projects that combine technology, investigation, automation, and problem-solving.
 
-```python
+<pre>
 class Gayathri:
     name = "Gayathri S"
     role = "Digital Forensics & Information Security Candidate"
@@ -64,15 +64,10 @@ class Gayathri:
         "Forensic Analysis",
         "Secure Application Development"
     ]
+</pre>
 
-    
 ---
 
-## STEP 3: Currently Exploring section
-
-**About Me section kazhinju** ithu paste cheyyuka:
-
-```markdown
 ## 🔎 Currently Exploring
 
 - Digital Forensics and Cyber Investigation
