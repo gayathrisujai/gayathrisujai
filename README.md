@@ -11,9 +11,9 @@
   <a href="https://github.com/gayathrisujai">
     <img src="https://img.shields.io/badge/GitHub-gayathrisujai-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/gayathri-s-6589a02ba">
-    <img src="https://img.shields.io/badge/LinkedIn-Gayathri%20S-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gayathri-s-6589a02ba">
+  <img src="https://img.shields.io/badge/LinkedIn-Gayathri%20S-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
   <a href="mailto:gayathrisheeja2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -306,7 +306,7 @@ Status: Pursuing
   <img src="https://img.shields.io/badge/Email-gayathrisheeja2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gayathri-sujai-6">
+<a href="https://www.linkedin.com/in/gayathri-s-6589a02ba">
   <img src="https://img.shields.io/badge/LinkedIn-Gayathri%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
